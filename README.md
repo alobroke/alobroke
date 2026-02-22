@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on: TAS India Pvt. Ltd<br>🌱 Passionate seeker who thrives on continuously learning and exploring the world of Machine Learning<br>🤖 Focused on Artificial Intelligence, Machine Learning, and real-world AI deployment<br>🧠 Experienced in building deep learning models<br>🚀 Interested in developing scalable, industry-ready AI applications<br>📚 Active learner exploring advanced topics like Explainable AI, Federated Learning, and AI deployment</p>
+<p align="left">- I’m currently working on: TAS India Pvt. Ltd<br>- Passionate seeker who thrives on continuously learning and exploring the world of Machine Learning<br>- Focused on Artificial Intelligence, Machine Learning, and real-world AI deployment<br>- Experienced in building deep learning models<br>- Interested in developing scalable, industry-ready AI applications<br>- Active learner exploring advanced topics like Explainable AI, Federated Learning, and AI deployment</p>
 
 ###
 
