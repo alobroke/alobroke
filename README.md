@@ -59,7 +59,7 @@
 ###
 
 <div align="left">
-  <a src="www.linkedin.com/in/anuj-bharat-251830279">
+  <a href="https://www.linkedin.com/in/anuj-bharat-251830279">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/anuj_bharat28" target="_blank">
